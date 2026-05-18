@@ -10,5 +10,5 @@ För frågor, samarbeten eller nätverkande, nås jag enklast via:
 ## Portfolio-projekt
 Nedan finns en översikt av de projekt som ingår i denna portfolio:
 
-1. **[Website]** – En databas med gui.
-2. **[Snake]** – Tillsammans med en klasskamrat har vi byggt snake från grunden upp påen risc-v bräda
+1. **Website** – En databas med gui.
+2. **Snake** – Tillsammans med en klasskamrat har vi byggt snake från grunden upp påen risc-v bräda
