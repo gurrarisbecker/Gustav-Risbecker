@@ -3,9 +3,9 @@
 Detta projekt är en Java-applikation för hantering av kurser, undervisningsallokering och tillhörande kostnader. Systemet använder en SQL-databas för datalagring.
 
 ## Verktyg
-* **Programmeringsspråk:** Java
-* **Databas:** SQL
-* **Byggverktyg:** Maven
+Programmeringsspråk: Java
+Databas: SQL
+Byggverktyg: Maven
 
 ## Projektstruktur och organisation
 Projektet är strikt organiserat enligt MVC-mönstret (Model-View-Controller) samt ett integrationslager för att separera affärslogik, databashantering och användargränssnitt:
